@@ -1,0 +1,72 @@
+// if (1 === "1") {
+//     console.log(true);
+// }
+// else {
+//     console.log(false);
+// }
+// if (1 != "1") {
+//     console.log(true);
+// }
+// else {
+//     console.log(false);
+// }
+// let place = "Manc";
+// let weather = "Cloudy";
+// if (place == "Manc" && weather == "Sunny") {
+// console.log("Check again"); 
+// }
+// else if (place == "Manc" && weather == "Rain") {
+// console.log("Obvs"); 
+// }
+// else {
+// console.log("What it isn't raining?"); 
+// }
+// let day = "Saturday"; 
+// if (day == "Saturday" || day == "Sunday"){
+//     console.log("It's weekend!");
+// }
+// else {
+//     console.log("When's weekend?”);
+// }
+// let day = "Saturday"; 
+// if (day == "Saturday" || day == "Sunday"){
+//     console.log("It's weekend!");
+// }else {
+//        console.log("y")
+// }
+
+
+// const takeOrder = (size, drinkType) => {
+//     console.log(`Order received: ${size} ${drinkType}`);
+//    }
+//    takeOrder("Tall","Latte");
+   
+
+//Activity0
+
+// const factorial = (n)=> {
+//  if ((n === 0) || (n === 1)) {
+//  return 1;
+//  } else {
+//  return (n * factorial(n-1));
+//  }
+// }
+ 
+// console.log(factorial(33));
+
+
+
+
+// Activity(4)
+// let film = ['true romance','the fighter of the navigator','alien','blade runner',"ghostbusters"];
+// for(let i = 0; i < film.length; i++){
+//     console.log(film[i])
+// }  
+//     if(film[4] == "ghostbusters"){
+//     console.log("YES")
+// }
+// else{
+//     console.log("boo!")
+// }
+
+    
