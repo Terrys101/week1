@@ -14,35 +14,35 @@
 //if (1) {
     //console.log("You won!");
 
-    let coffeeIsGrinding = false;
+//     let coffeeIsGrinding = false;
     
-    const pressGrindBeans = () => {
-        if (coffeeIsGrinding) {
-        console.log("Stopping the grind"); //
-        coffeeIsGrinding = false;
-    } else {
-        console.log("grinding is about to begain");
-        coffeeIsGrinding = true;
-    }
-    }
+//     const pressGrindBeans = () => {
+//         if (coffeeIsGrinding) {
+//         console.log("Stopping the grind"); //
+//         coffeeIsGrinding = false;
+//     } else {
+//         console.log("grinding is about to begain");
+//         coffeeIsGrinding = true;
+//     }
+//     }
 
-    pressGrindBeans();
-    pressGrindBeans();
-    pressGrindBeans();
-    pressGrindBeans(); 
+//     pressGrindBeans();
+//     pressGrindBeans();
+//     pressGrindBeans();
+//     pressGrindBeans(); 
      
-    let amount1 = 10
-    let accNumber = 523456
-    let balance1 = 1000
-   const cashwithdrawal = (amount, accnum ,) => {
-    console.log (`withdrawing ${amount} form account number ${accnum} your new balance is`)
+//     let amount1 = 10
+//     let accNumber = 523456
+//     let balance1 = 1000
+//    const cashwithdrawal = (amount, accnum ,) => {
+//     console.log (`withdrawing ${amount} form account number ${accnum} your new balance is`)
        
-    x = balance1 - amount1;
-        console.log(`${x}`)
+//     x = balance1 - amount1;
+//         console.log(`${x}`)
    
-   }
+//    }
    
-   cashwithdrawal(amount1,accNumber);
+//    cashwithdrawal(amount1,accNumber);
 
   
 
